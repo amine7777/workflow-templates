@@ -1,4 +1,4 @@
-name: Molecule Test Ansible Workflow
+name: Molecule Test Ansible CI
 
 on:
   push:
